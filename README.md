@@ -37,11 +37,16 @@ We trained our model to 10 iterations, and the loss and accuracy plot are as bel
 
 ![image](https://github.com/tmorovati/CNN-based-Facial-Affect-Analysis-on-Mobile-Devices/assets/47552594/7f28d753-10cf-408c-a590-4c6c8744bfdc)
 
+We trained our model to 25 iterations, and the loss and accuracy plot are as below : 
 
 ![image](https://github.com/tmorovati/CNN-based-Facial-Affect-Analysis-on-Mobile-Devices/assets/47552594/3b4a302a-e255-4e48-9a43-2f5531a21d39)
 
 
 ## MobileNet
+![image](https://github.com/tmorovati/CNN-based-Facial-Affect-Analysis-on-Mobile-Devices/assets/47552594/32398fcc-022a-40b3-a340-8525f7802e84)
+
+![image](https://github.com/tmorovati/CNN-based-Facial-Affect-Analysis-on-Mobile-Devices/assets/47552594/dca0f752-6236-4df7-b132-6aa029a7e647)
+
 @article{DBLP:journals/corr/abs-1807-08775,
   author       = {Charlie Hewitt and
                   Hatice Gunes},
