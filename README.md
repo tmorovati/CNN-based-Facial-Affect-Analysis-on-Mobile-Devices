@@ -50,6 +50,9 @@ We trained our model to 25 iterations, and the loss and accuracy plot are as bel
 
 ![image](https://github.com/tmorovati/CNN-based-Facial-Affect-Analysis-on-Mobile-Devices/assets/47552594/dca0f752-6236-4df7-b132-6aa029a7e647)
 
+
+if you have any questions, reach out to me via email: t.morovati.99@gmail.com
+
 @article{DBLP:journals/corr/abs-1807-08775,
   author       = {Charlie Hewitt and
                   Hatice Gunes},
